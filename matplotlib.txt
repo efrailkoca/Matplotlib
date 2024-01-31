@@ -1,0 +1,6 @@
+Matplotlib linki  		=>  	https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+Marker styles	 		=> 		https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+Colormaps 				=> 		https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
+Datetime Tutorial 		=> 		https://www.youtube.com/watch?v=eirjjyP2qcQ
+Datetime Format Codes 	=>		https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+Unpacking Quick Tip		=>		https://www.youtube.com/watch?v=C-gEQdGVXbk&t=782s
